@@ -1,3 +1,8 @@
+/*
+This program reads any 2 positive numbers and returns their product, difference, and the sum of their roots.
+*/
+
+
 #include <stdio.h>
 #include <math.h>
 
