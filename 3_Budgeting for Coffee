@@ -1,3 +1,12 @@
+/*
+This program helps the user budget their coffee consumption for the month and wil also implement the loyalty programs offered by many
+popular companies. This program will read the price of the coffee, the copuons needed for to redeem a free coffee, the user's coffee 
+budget for the month and will return the number of coffees that can be purchased, the number of additional coffees that can be 
+redeemed via coupons, the amount of money and coupons the user will have left over at the end of the month, and the average price 
+the user spent on coffee.
+*/
+
+
 #include <stdio.h>
 
 int main(int argc, char** argv)
@@ -51,5 +60,7 @@ int main(int argc, char** argv)
         printf("On average, you spent $0.00 on each cup of coffee this month.\n");   
     else
         printf("On average, you spent $%.2lf on each cup of coffee this month.\n", averagePrice);
+    
+    return 0;
 }
 
