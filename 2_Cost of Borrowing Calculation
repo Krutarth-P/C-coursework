@@ -1,3 +1,9 @@
+/*
+This program calculates the cost of borrowing and monthly payment when a certain amount of money is borrowed on credit 
+and is to be repayed with a certain monthly interest rate over a certain duration.
+*/
+
+
 #include <stdio.h>
 #include <math.h>
 
