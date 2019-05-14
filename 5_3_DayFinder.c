@@ -1,3 +1,8 @@
+/*
+    This program is utilises the Zeller’s Algorithm to find the day of the week for a given date. For example, 10/10/2012 is a Wednesday.
+*/
+
+
 #include <stdio.h>
 
 void inputDate(int* day, int* month, int* year) // recieves input for the data
