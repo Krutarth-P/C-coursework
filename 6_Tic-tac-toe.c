@@ -1,3 +1,8 @@
+/*
+    This program is used to allows the users to play Tic-tac-toe against each other.
+*/
+
+
 #include <stdio.h>
 void printBoard(int board[], int playerA, int playerB)
 {
