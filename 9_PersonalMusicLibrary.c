@@ -1,12 +1,7 @@
-//
-// APS105 Lab 9
-//
-// This is a program written to maintain a personal music library,
-// using a linked list to hold the songs in the library.
-//
-// Author: <Your Name Goes Here>
-// Student Number: <Your Student Number Goes Here>
-//
+/*
+This is a program written to maintain a personal music library, using a linked list to hold the songs in the library in alphabetical order. 
+It also allows to insert, delete, search, and print songs in the list.
+*/
 
 #include <ctype.h>
 #include <stdbool.h>
