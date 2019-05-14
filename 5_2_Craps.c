@@ -1,3 +1,8 @@
+/*
+    This code is used to generate the popular game of craps.
+*/
+
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
