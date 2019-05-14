@@ -9,5 +9,5 @@ These are the codes I developed to complete coursework for my C-programming cour
 * Conditionals, loops, arrays, pointers
 * Functions, recursions
 * Strings
-* Linked lists, searching and sorting algorithms
+* Data Structures, Linked lists, searching and sorting algorithms
 * Binary Trees and Algorithms 
