@@ -1,3 +1,8 @@
+/*
+This code is used to encypt numbers. It first adds 4 to each digit and then shifts each digit.
+*/
+
+
 #include <stdio.h>
 #include <math.h>
 
