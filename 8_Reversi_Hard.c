@@ -1,3 +1,9 @@
+/*
+    This program implements an alorithm to generate a 1-player reversi game.
+    This algorithm choses the move which will minimize the opponents score and also choses the most beneficial locations first. 
+*/
+
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
