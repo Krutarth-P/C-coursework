@@ -1,3 +1,9 @@
+/*
+    This program implements an algorithm to make a 1-player reversi game.
+    This algorithm choses the move which will recieve the max points.
+*/
+
+
 #include <stdbool.h>
 #include <stdio.h>
 
