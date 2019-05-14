@@ -1,3 +1,8 @@
+/*
+    This program sets up the inputs and checks the legality of moves for the reversi game.
+*/
+
+
 #include <stdbool.h>
 #include <stdio.h>
 
