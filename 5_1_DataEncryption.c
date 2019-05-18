@@ -17,7 +17,7 @@ void input(int* num) // recieves input
     } while (*num <= 99999);
     printf("The number entered is %d\n", *num);
 }
-int add4(int num) // calulates add45 value
+int add4(int num) // calulates add4 value
 {
     int temp = 0, exp = 0;
     while (num > 0) {
